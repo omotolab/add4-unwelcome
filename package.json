@@ -6,6 +6,8 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@vueuse/core": "^9.6.0",
+    "@vueuse/nuxt": "^9.6.0",
     "nuxt3": "latest"
   }
 }
